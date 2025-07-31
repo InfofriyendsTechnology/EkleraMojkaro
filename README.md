@@ -1,32 +1,3 @@
-<div align="cent<div align="center">
-
-<!-- Matrix Style Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Stable-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-Optimized-00ff00?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
-
-<!-- Tech Stack Icons -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-Compatible-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gaming-Ready-FF0000?style=for-the-badge&logo=game&logoColor=white"/>
-</p>
-
-## ⚡ ડાઉનલોડ કરો
-
-<div align="center">
-  <a href="https://github.com/InfofriyendsTechnology/EkleraMojkaro/releases/latest/download/Y.eklera.ps1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" width="200px"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1">
-    <img src="https://img.shields.io/badge/📜_View_Script-2ea44f?style=for-the-badge"/>
-  </a>
-</p>
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,4,4,4,4&height=200&section=header&text=એક્લેરા%20મોજ%20કરો&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -49,7 +20,17 @@
 
 ## ⚡ ડાઉનલોડ કરો
 
-[![Download Script](https://img.shields.io/github/v1/release/InfofriyendsTechnology/EkleraMojkaro?label=Download&style=for-the-badge)](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
+<div align="center">
+  <a href="https://github.com/InfofriyendsTechnology/EkleraMojkaro/releases/latest/download/Y.eklera.ps1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white" width="200px"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1">
+    <img src="https://img.shields.io/badge/📜_View_Script-2ea44f?style=for-the-badge"/>
+  </a>
+</p>
 
 ## � મોજ કરો - ગુજરાતી માહિતી
 
