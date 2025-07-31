@@ -1,63 +1,103 @@
-# 🔮 EkleraMojkaro Script [ Pro Edition ]
+<div align="cent<!-- Matrix Style Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Stable-00ff00?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-Optimized-00ff00?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-```ascii
-███████╗██╗  ██╗██╗     ███████╗██████╗  █████╗ 
-██╔════╝██║ ██╔╝██║     ██╔════╝██╔══██╗██╔══██╗
-█████╗  █████╔╝ ██║     █████╗  ██████╔╝███████║
-██╔══╝  ██╔═██╗ ██║     ██╔══╝  ██╔══██╗██╔══██║
-███████╗██║  ██╗███████╗███████╗██║  ██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<!-- Tech Stack Icons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-Compatible-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gaming-Ready-FF0000?style=for-the-badge&logo=game&logoColor=white"/>
+</p>
+
+## 🚀 ડાઉનલોડ કરો
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,4,4,4,4&height=200&section=header&text=એક્લેરા%20મોજ%20કરો&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Windows+Performance+Booster+🚀;Gaming+Mode+Optimizer+🎮;System+Enhancement+Tool+⚡;Battery+Life+Maximizer+🔋"/>
+</p>
+
+<!-- Animated Emojis -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100"/>
+</p>
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-darkblue.svg?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple.svg?style=for-the-badge)
 
-> 🔥 **Elite Configuration Tool for Power Users**
+> � **પાવર યુઝર્સ માટે શ્રેષ્ઠ ટૂલ**
 
-## ⚡ Quick Download
+## ⚡ ડાઉનલોડ કરો
 
 [![Download Script](https://img.shields.io/github/v1/release/InfofriyendsTechnology/EkleraMojkaro?label=Download&style=for-the-badge)](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
 
-You can download the script directly from our GitHub repository by clicking the download button above.
-
-## 🚀 Installation Matrix
-
-### 📥 Phase 1: Acquisition
-```
-⚠️ CLASSIFIED LEVEL: AUTHORIZED ACCESS ONLY
-```
-- 🔐 Secure the script: [`Y.eklera.ps1`](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
-- 📁 Deploy to local matrix: `%UserProfile%\Downloads\`
-
-### ⚡ Phase 2: Execution
-   - Open PowerShell as Administrator
-   - Navigate to your Downloads folder and run the script using:
-   ```powershell
-   cd $env:USERPROFILE\Downloads
-   powershell -ExecutionPolicy Bypass -File .\Y.eklera.ps1
-   ```
-
-## ⚠️ Critical Protocol
+## � મોજ કરો - ગુજરાતી માહિતી
 
 ```ascii
+╔════════════════════════════════════════════════╗
+║           એક્લેરા મોજ કરો સ્ક્રિપ્ટ            ║
+╚════════════════════════════════════════════════╝
+```
+
+### 📝 સ્ક્રિપ્ટ વિશે માહિતી
+> આ સ્ક્રિપ્ટ તમારા કમ્પ્યુટરને વધુ મજેદાર અને ઝડપી બનાવશે!
+
+### ⚡ ઈન્સ્ટોલેશન સૂચનાઓ:
+- 🔑 એડમિન તરીકે પાવરશેલ ખોલો
+- 📂 ડાઉનલોડ્સ ફોલ્ડરમાં જાઓ
+- 🚀 નીચેની કમાન્ડ દ્વારા સ્ક્રિપ્ટ ચલાવો:
+```powershell
+cd $env:USERPROFILE\Downloads
+powershell -ExecutionPolicy Bypass -File .\Y.eklera.ps1
+```
+
+### 🛡️ સુરક્ષા સૂચનાઓ
+```ascii
 ┌──────────────────────────────────────────┐
-│  🛡️ SECURITY CLEARANCE REQUIRED          │
-│  💻 ADMINISTRATIVE ACCESS MANDATORY       │
-│  🔒 EXECUTION POLICY: BYPASS             │
+│  🔒 એડમિન એક્સેસ જરૂરી છે               │
+│  ⚡ પાવરશેલ પોલિસી: બાયપાસ              │
+│  📂 ડાઉનલોડ્સ ફોલ્ડરમાં રાખો            │
 └──────────────────────────────────────────┘
 ```
 
-### 🔒 Security Protocols
-- `[ADMIN]` Elevated privileges required
-- `[POLICY]` Execution policy override engaged
-- `[LOCATION]` Maintain deployment in Downloads sector
+## ⚡ ખાસ સુવિધાઓ
 
-### 💡 Pro Tips
-- Run regular system diagnostics before execution
-- Maintain secure backup protocols
-- Monitor system response during runtime
+<div align="center">
 
-```ascii
-[END OF SECURE TRANSMISSION]
-```
+| 🎮 ગેમિંગ ફીચર્સ | ⚡ પરફોર્મન્સ | ️ સુરક્ષા |
+|:----------------:|:-------------:|:-----------:|
+| ![Gaming](https://img.shields.io/badge/FPS_Boost-✓-00ff00?style=for-the-badge) | ![Performance](https://img.shields.io/badge/CPU_Optimize-✓-00ff00?style=for-the-badge) | ![Security](https://img.shields.io/badge/Real_Time-✓-00ff00?style=for-the-badge) |
+| ![Gaming](https://img.shields.io/badge/GPU_Optimize-✓-00ff00?style=for-the-badge) | ![Performance](https://img.shields.io/badge/RAM_Boost-✓-00ff00?style=for-the-badge) | ![Security](https://img.shields.io/badge/Auto_Update-✓-00ff00?style=for-the-badge) |
+| ![Gaming](https://img.shields.io/badge/Low_Latency-✓-00ff00?style=for-the-badge) | ![Performance](https://img.shields.io/badge/SSD_Optimize-✓-00ff00?style=for-the-badge) | ![Security](https://img.shields.io/badge/Safe_Mode-✓-00ff00?style=for-the-badge) |
+
+</div>
+
+## 🌟 સપોર્ટ & કનેક્ટ
+
+<p align="center">
+  <a href="mailto:support@eklera.com">
+    <img src="https://img.shields.io/badge/Email-Support-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ekleramojkaro">
+    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ekleramojkaro">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Proud Indian Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be-Indian-138808?style=for-the-badge&labelColor=FF9933&color=138808"/>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,4,4,4,4&height=100&section=footer"/>
+
+</div>
