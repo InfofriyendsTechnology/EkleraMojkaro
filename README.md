@@ -1,23 +1,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,4,4,4,4&height=200&section=header&text=એક્લેરા%20મોજ%20કરો&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Windows+Performance+Booster+🚀;Gaming+Mode+Optimizer+🎮;System+Enhancement+Tool+⚡;Battery+Life+Maximizer+🔋"/>
-</p>
-
-<!-- Animated Emojis -->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="100" height="100"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100"/>
-</p>
-
-![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-darkblue.svg?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple.svg?style=for-the-badge)
-
-> � **પાવર યુઝર્સ માટે શ્રેષ્ઠ ટૂલ**
-
 ## ⚡ ડાઉનલોડ કરો
 
 <div align="center">
@@ -72,21 +55,6 @@ powershell -ExecutionPolicy Bypass -File .\Y.eklera.ps1
 | ![Gaming](https://img.shields.io/badge/Low_Latency-✓-00ff00?style=for-the-badge) | ![Performance](https://img.shields.io/badge/SSD_Optimize-✓-00ff00?style=for-the-badge) | ![Security](https://img.shields.io/badge/Safe_Mode-✓-00ff00?style=for-the-badge) |
 
 </div>
-
-## 🌟 સપોર્ટ & કનેક્ટ
-
-<p align="center">
-  <a href="mailto:support@eklera.com">
-    <img src="https://img.shields.io/badge/Email-Support-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/ekleramojkaro">
-    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ekleramojkaro">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 <!-- Proud Indian Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/🇮🇳_Proud_to_be-Indian-138808?style=for-the-badge&labelColor=FF9933&color=138808"/>
