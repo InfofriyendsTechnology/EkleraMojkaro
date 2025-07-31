@@ -5,7 +5,8 @@ This repository contains configuration files for the script modification tool.
 ## Installation Instructions
 
 1. Download the Script
-   - Download the script file `Y.eklera.ps1`
+   - Download the script file `[Uploading Y.eklera.ps1…]()
+ps1`
    - Save it in your Downloads folder
 
 2. Running the Script
